@@ -25,7 +25,7 @@ public class ArithmeticDemo {
         System.out.println("Multipolication : "+result);
         
         double result2 = (double)num1 / num2;
-        System.out.println(0.2f+"Devide : "+result2);
+        System.out.println("Devide : "+result2);
         
         result = num1 % num2;
         System.out.println("Remainder : "+result);
