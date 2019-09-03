@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author Shahajahan
  */
-public class ArithmeticDemo {
+public class ArithmeticOperation {
     public static void main(String[] arge) {
         int num1, num2, result;
         Scanner input = new Scanner(System.in);
